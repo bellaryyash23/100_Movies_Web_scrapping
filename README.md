@@ -2,7 +2,7 @@
 
 🌟A program which makes use of Web Scraping to get the real-time data of titles of the top 100 movies of all time from website using the BeautifulSoup package of Python.
 
-👉In the 'main.py' file, the requests module is used to the hard coded html data from the website(https://web.archive.org/web/20211226090047/https://www.empireonline.com/movies/features/best-movies-2/) 
+👉In the 'main.py' file, the requests module is used to get the hard coded html data from the website(https://web.archive.org/web/20211226090047/https://www.empireonline.com/movies/features/best-movies-2/) 
 and the response data is then stored in the python variable.
 
 ![Top 100 movies Website](https://github.com/bellaryyash23/100_Movies_Web_scrapping/blob/master/movie_web.png?raw=true)
